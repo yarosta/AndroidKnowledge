@@ -1,0 +1,3 @@
+Android version : corresponds with target API level, for example Android 13 corresponds with API level 33
+
+target API level = target SDK version
